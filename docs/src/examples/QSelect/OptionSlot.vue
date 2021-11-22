@@ -69,6 +69,37 @@ export default {
           disable: true,
           description: 'Databases',
           icon: 'casino'
+        },
+         {
+          label: 'Google',
+          value: 'Google',
+          description: 'Search engine',
+          icon: 'mail'
+        },
+        {
+          label: 'Facebook',
+          value: 'Facebook',
+          description: 'Social media',
+          icon: 'bluetooth'
+        },
+        {
+          label: 'Twitter',
+          value: 'Twitter',
+          description: 'Quick updates',
+          icon: 'map'
+        },
+        {
+          label: 'Apple',
+          value: 'Apple',
+          description: 'iStuff',
+          icon: 'golf_course'
+        },
+        {
+          label: 'Oracle',
+          value: 'Oracle',
+          disable: true,
+          description: 'Databases',
+          icon: 'casino'
         }
       ]
     }
